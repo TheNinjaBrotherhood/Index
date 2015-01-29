@@ -1,0 +1,10 @@
+http://en.wikipedia.org/wiki/List_of_algorithms
+http://www.sorting-algorithms.com/
+http://sorting.at/
+http://www.comp.nus.edu.sg/~stevenha/visualization/index.html
+http://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+https://www.youtube.com/playlist?list=PL89B61F78B552C1AB
+https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf
+https://www.youtube.com/playlist?list=PLLH73N9cB21W1TZ6zz1dLkyIm50HylGyg
+https://www.youtube.com/playlist?list=PLLH73N9cB21VPj3H2xwTTye5TC8-UniA2
